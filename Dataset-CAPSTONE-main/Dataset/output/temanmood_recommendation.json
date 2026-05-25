@@ -1,140 +1,76 @@
 {
-    "Awful": {
-        "message": "Prioritaskan istirahat.",
+    "Negatif": {
+        "message": "Tidak apa-apa merasa kurang baik. Prioritaskan istirahat dan pemulihan.",
         "references": [
+            "Mindful.org",
             "Mental Health America"
         ],
-        "total_entries": 49,
-        "top_activities": [
-            "youtube",
-            "streaming",
-            "Dota 2",
-            "Audio books",
-            "good meal"
-        ],
-        "activity_distribution": [
-            {
-                "activity": "youtube",
-                "count": 38,
-                "weight": 0.068
-            },
-            {
-                "activity": "streaming",
-                "count": 33,
-                "weight": 0.059
-            },
-            {
-                "activity": "Dota 2",
-                "count": 25,
-                "weight": 0.045
-            },
-            {
-                "activity": "Audio books",
-                "count": 24,
-                "weight": 0.043
-            },
-            {
-                "activity": "good meal",
-                "count": 23,
-                "weight": 0.041
-            },
-            {
-                "activity": "reddit",
-                "count": 23,
-                "weight": 0.041
-            },
-            {
-                "activity": "fasting",
-                "count": 22,
-                "weight": 0.039
-            },
-            {
-                "activity": "Watching series",
-                "count": 20,
-                "weight": 0.036
-            },
-            {
-                "activity": "language learning",
-                "count": 20,
-                "weight": 0.036
-            },
-            {
-                "activity": "walk",
-                "count": 20,
-                "weight": 0.036
-            }
-        ]
-    },
-    "Bad": {
-        "message": "Ambil waktu untuk dirimu.",
-        "references": [
-            "Mindful.org"
-        ],
-        "total_entries": 45,
+        "total_entries": 94,
         "top_activities": [
             "youtube",
             "streaming",
             "good meal",
-            "walk",
-            "reddit"
+            "reddit",
+            "Audio books"
         ],
         "activity_distribution": [
             {
                 "activity": "youtube",
-                "count": 33,
-                "weight": 0.062
+                "count": 71,
+                "weight": 0.065
             },
             {
                 "activity": "streaming",
-                "count": 32,
+                "count": 65,
                 "weight": 0.06
             },
             {
                 "activity": "good meal",
-                "count": 24,
-                "weight": 0.045
-            },
-            {
-                "activity": "walk",
-                "count": 23,
+                "count": 47,
                 "weight": 0.043
             },
             {
                 "activity": "reddit",
-                "count": 23,
-                "weight": 0.043
-            },
-            {
-                "activity": "News Update",
-                "count": 23,
-                "weight": 0.043
-            },
-            {
-                "activity": "Watching series",
-                "count": 22,
-                "weight": 0.041
-            },
-            {
-                "activity": "language learning",
-                "count": 21,
-                "weight": 0.039
+                "count": 46,
+                "weight": 0.042
             },
             {
                 "activity": "Audio books",
-                "count": 20,
+                "count": 44,
+                "weight": 0.04
+            },
+            {
+                "activity": "walk",
+                "count": 43,
+                "weight": 0.039
+            },
+            {
+                "activity": "News Update",
+                "count": 42,
+                "weight": 0.039
+            },
+            {
+                "activity": "Watching series",
+                "count": 42,
+                "weight": 0.039
+            },
+            {
+                "activity": "language learning",
+                "count": 41,
                 "weight": 0.038
             },
             {
-                "activity": "fasting",
-                "count": 18,
-                "weight": 0.034
+                "activity": "Dota 2",
+                "count": 40,
+                "weight": 0.037
             }
         ]
     },
-    "Normal": {
-        "message": "Lakukan aktivitas ringan.",
+    "Netral": {
+        "message": "Lakukan aktivitas ringan untuk boost mood.",
         "references": [
-            "Psychology Today"
+            "Psychology Today",
+            "APA: Stress management"
         ],
         "total_entries": 166,
         "top_activities": [
@@ -197,135 +133,70 @@
             }
         ]
     },
-    "Good": {
-        "message": "Lanjutkan rutinitas positifmu.",
+    "Positif": {
+        "message": "Pertahankan energi positif dan lanjutkan rutinitas baikmu!",
         "references": [
+            "Positive Psychology Center",
             "Harvard Health Publishing"
         ],
-        "total_entries": 470,
-        "top_activities": [
-            "youtube",
-            "streaming",
-            "meditation",
-            "Audio books",
-            "good meal"
-        ],
-        "activity_distribution": [
-            {
-                "activity": "youtube",
-                "count": 406,
-                "weight": 0.062
-            },
-            {
-                "activity": "streaming",
-                "count": 374,
-                "weight": 0.057
-            },
-            {
-                "activity": "meditation",
-                "count": 299,
-                "weight": 0.046
-            },
-            {
-                "activity": "Audio books",
-                "count": 294,
-                "weight": 0.045
-            },
-            {
-                "activity": "good meal",
-                "count": 292,
-                "weight": 0.045
-            },
-            {
-                "activity": "Watching series",
-                "count": 277,
-                "weight": 0.042
-            },
-            {
-                "activity": "reddit",
-                "count": 261,
-                "weight": 0.04
-            },
-            {
-                "activity": "walk",
-                "count": 257,
-                "weight": 0.039
-            },
-            {
-                "activity": "fasting",
-                "count": 254,
-                "weight": 0.039
-            },
-            {
-                "activity": "News Update",
-                "count": 252,
-                "weight": 0.038
-            }
-        ]
-    },
-    "Amazing": {
-        "message": "Pertahankan energi positif!",
-        "references": [
-            "Positive Psychology Center"
-        ],
-        "total_entries": 163,
+        "total_entries": 633,
         "top_activities": [
             "youtube",
             "streaming",
             "good meal",
-            "reddit",
-            "walk"
+            "meditation",
+            "Audio books"
         ],
         "activity_distribution": [
             {
                 "activity": "youtube",
-                "count": 155,
-                "weight": 0.059
+                "count": 561,
+                "weight": 0.061
             },
             {
                 "activity": "streaming",
-                "count": 151,
-                "weight": 0.058
+                "count": 525,
+                "weight": 0.057
             },
             {
                 "activity": "good meal",
-                "count": 139,
-                "weight": 0.053
-            },
-            {
-                "activity": "reddit",
-                "count": 133,
-                "weight": 0.051
-            },
-            {
-                "activity": "walk",
-                "count": 130,
-                "weight": 0.05
+                "count": 431,
+                "weight": 0.047
             },
             {
                 "activity": "meditation",
-                "count": 127,
-                "weight": 0.048
-            },
-            {
-                "activity": "News Update",
-                "count": 126,
-                "weight": 0.048
-            },
-            {
-                "activity": "Watching series",
-                "count": 125,
-                "weight": 0.048
-            },
-            {
-                "activity": "Audio books",
-                "count": 120,
+                "count": 426,
                 "weight": 0.046
             },
             {
-                "activity": "fasting",
-                "count": 114,
+                "activity": "Audio books",
+                "count": 414,
+                "weight": 0.045
+            },
+            {
+                "activity": "Watching series",
+                "count": 402,
+                "weight": 0.044
+            },
+            {
+                "activity": "reddit",
+                "count": 394,
                 "weight": 0.043
+            },
+            {
+                "activity": "walk",
+                "count": 387,
+                "weight": 0.042
+            },
+            {
+                "activity": "News Update",
+                "count": 378,
+                "weight": 0.041
+            },
+            {
+                "activity": "fasting",
+                "count": 368,
+                "weight": 0.04
             }
         ]
     }

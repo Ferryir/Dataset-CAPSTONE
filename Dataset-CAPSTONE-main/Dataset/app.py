@@ -37,7 +37,7 @@ def load_data():
         else: return 'Malam'
 
     df['time_category'] = df['hour'].apply(get_time_cat)
-    mood_map = {'Awful':1,'Bad':2,'Normal':3,'Good':4,'Amazing':5}
+    mood_map = {'Negatif':1,'Netral':2,'Positif':3}
     df['mood_score'] = df['mood'].map(mood_map)
     df['activities_list'] = df['activities'].apply(lambda x: [a.strip() for a in str(x).split('|') if a.strip()])
     df['activity_count'] = df['activities_list'].apply(len)
@@ -47,8 +47,8 @@ def load_data():
 df = load_data()
 df_exploded = df.explode('activities_list')
 
-mood_order = ['Awful','Bad','Normal','Good','Amazing']
-mood_colors = {'Awful':'#e74c3c','Bad':'#e67e22','Normal':'#f1c40f','Good':'#2ecc71','Amazing':'#3498db'}
+mood_order = ['Negatif','Netral','Positif']
+mood_colors = {'Negatif':'#e74c3c','Netral':'#f1c40f','Positif':'#2ecc71'}
 
 # === SIDEBAR ===
 st.sidebar.title("🧠 TemanMood")
@@ -162,11 +162,9 @@ elif page == "💡 Rekomendasi":
     top_activities = df_mood['activities_list'].value_counts().head(5)
 
     msgs = {
-        "Amazing": "Pertahankan energi positif! 🌟",
-        "Good": "Lanjutkan rutinitas positifmu! 😊",
-        "Normal": "Lakukan aktivitas ringan untuk boost mood. 🙂",
-        "Bad": "Ambil waktu untuk dirimu sendiri. 💙",
-        "Awful": "Prioritaskan istirahat dan pemulihan. 🤗"
+        "Positif": "Pertahankan energi positif dan lanjutkan rutinitas baikmu! 🌟",
+        "Netral": "Lakukan aktivitas ringan untuk boost mood. 🙂",
+        "Negatif": "Tidak apa-apa merasa kurang baik. Prioritaskan istirahat dan pemulihan. 💙"
     }
 
     st.info(msgs.get(selected_mood, "Jaga keseimbangan emosi."))

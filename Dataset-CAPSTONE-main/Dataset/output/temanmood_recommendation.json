@@ -5,64 +5,64 @@
             "Mindful.org",
             "Mental Health America"
         ],
-        "total_entries": 94,
+        "total_entries": 368,
         "top_activities": [
-            "youtube",
-            "streaming",
-            "good meal",
-            "reddit",
-            "Audio books"
+            "YouTube",
+            "Streaming",
+            "Makan Enak",
+            "Dota 2",
+            "Reddit"
         ],
         "activity_distribution": [
             {
-                "activity": "youtube",
-                "count": 71,
-                "weight": 0.065
+                "activity": "YouTube",
+                "count": 271,
+                "weight": 0.068
             },
             {
-                "activity": "streaming",
-                "count": 65,
-                "weight": 0.06
+                "activity": "Streaming",
+                "count": 248,
+                "weight": 0.062
             },
             {
-                "activity": "good meal",
-                "count": 47,
-                "weight": 0.043
-            },
-            {
-                "activity": "reddit",
-                "count": 46,
+                "activity": "Makan Enak",
+                "count": 167,
                 "weight": 0.042
             },
             {
-                "activity": "Audio books",
-                "count": 44,
+                "activity": "Dota 2",
+                "count": 164,
+                "weight": 0.041
+            },
+            {
+                "activity": "Reddit",
+                "count": 159,
                 "weight": 0.04
             },
             {
-                "activity": "walk",
-                "count": 43,
+                "activity": "Buku Audio",
+                "count": 156,
                 "weight": 0.039
             },
             {
-                "activity": "News Update",
-                "count": 42,
+                "activity": "Jalan Kaki",
+                "count": 156,
                 "weight": 0.039
             },
             {
-                "activity": "Watching series",
-                "count": 42,
-                "weight": 0.039
-            },
-            {
-                "activity": "language learning",
-                "count": 41,
-                "weight": 0.038
-            },
-            {
-                "activity": "Dota 2",
-                "count": 40,
+                "activity": "Berita Terkini",
+                "count": 150,
                 "weight": 0.037
+            },
+            {
+                "activity": "Berpuasa",
+                "count": 150,
+                "weight": 0.037
+            },
+            {
+                "activity": "Belajar Bahasa",
+                "count": 144,
+                "weight": 0.036
             }
         ]
     },
@@ -72,64 +72,64 @@
             "Psychology Today",
             "APA: Stress management"
         ],
-        "total_entries": 166,
+        "total_entries": 349,
         "top_activities": [
-            "youtube",
-            "streaming",
-            "good meal",
-            "reddit",
-            "News Update"
+            "YouTube",
+            "Streaming",
+            "Berita Terkini",
+            "Makan Enak",
+            "Reddit"
         ],
         "activity_distribution": [
             {
-                "activity": "youtube",
-                "count": 138,
+                "activity": "YouTube",
+                "count": 293,
                 "weight": 0.06
             },
             {
-                "activity": "streaming",
-                "count": 120,
+                "activity": "Streaming",
+                "count": 252,
                 "weight": 0.052
             },
             {
-                "activity": "good meal",
-                "count": 108,
-                "weight": 0.047
+                "activity": "Berita Terkini",
+                "count": 226,
+                "weight": 0.046
             },
             {
-                "activity": "reddit",
-                "count": 102,
+                "activity": "Makan Enak",
+                "count": 218,
+                "weight": 0.045
+            },
+            {
+                "activity": "Reddit",
+                "count": 215,
                 "weight": 0.044
             },
             {
-                "activity": "News Update",
-                "count": 100,
-                "weight": 0.043
-            },
-            {
-                "activity": "Watching series",
-                "count": 95,
+                "activity": "Buku Audio",
+                "count": 202,
                 "weight": 0.041
             },
             {
-                "activity": "Audio books",
-                "count": 95,
+                "activity": "Meditasi",
+                "count": 199,
                 "weight": 0.041
             },
             {
-                "activity": "walk",
-                "count": 91,
+                "activity": "Menonton Serial",
+                "count": 193,
                 "weight": 0.04
             },
             {
-                "activity": "meditation",
-                "count": 87,
-                "weight": 0.038
+                "activity": "Jalan Kaki",
+                "count": 179,
+                "weight": 0.037
             },
             {
-                "activity": "shower",
-                "count": 79,
-                "weight": 0.034
+                "activity": "Mandi",
+                "count": 172,
+                "weight": 0.035
             }
         ]
     },
@@ -139,64 +139,64 @@
             "Positive Psychology Center",
             "Harvard Health Publishing"
         ],
-        "total_entries": 633,
+        "total_entries": 389,
         "top_activities": [
-            "youtube",
-            "streaming",
-            "good meal",
-            "meditation",
-            "Audio books"
+            "YouTube",
+            "Streaming",
+            "Makan Enak",
+            "Meditasi",
+            "Menonton Serial"
         ],
         "activity_distribution": [
             {
-                "activity": "youtube",
-                "count": 561,
+                "activity": "YouTube",
+                "count": 354,
                 "weight": 0.061
             },
             {
-                "activity": "streaming",
-                "count": 525,
+                "activity": "Streaming",
+                "count": 334,
                 "weight": 0.057
             },
             {
-                "activity": "good meal",
-                "count": 431,
+                "activity": "Makan Enak",
+                "count": 292,
+                "weight": 0.05
+            },
+            {
+                "activity": "Meditasi",
+                "count": 286,
+                "weight": 0.049
+            },
+            {
+                "activity": "Menonton Serial",
+                "count": 275,
                 "weight": 0.047
             },
             {
-                "activity": "meditation",
-                "count": 426,
+                "activity": "Jalan Kaki",
+                "count": 274,
+                "weight": 0.047
+            },
+            {
+                "activity": "Buku Audio",
+                "count": 270,
                 "weight": 0.046
             },
             {
-                "activity": "Audio books",
-                "count": 414,
-                "weight": 0.045
+                "activity": "Reddit",
+                "count": 269,
+                "weight": 0.046
             },
             {
-                "activity": "Watching series",
-                "count": 402,
-                "weight": 0.044
-            },
-            {
-                "activity": "reddit",
-                "count": 394,
+                "activity": "Berita Terkini",
+                "count": 252,
                 "weight": 0.043
             },
             {
-                "activity": "walk",
-                "count": 387,
-                "weight": 0.042
-            },
-            {
-                "activity": "News Update",
-                "count": 378,
-                "weight": 0.041
-            },
-            {
-                "activity": "fasting",
-                "count": 368,
-                "weight": 0.04
+                "activity": "Berpuasa",
+                "count": 249,
+                "weight": 0.043
             }
         ]
     }

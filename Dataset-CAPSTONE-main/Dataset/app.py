@@ -51,18 +51,18 @@ mood_order = ['Negatif','Netral','Positif']
 mood_colors = {'Negatif':'#e74c3c','Netral':'#f1c40f','Positif':'#2ecc71'}
 
 # === SIDEBAR ===
-st.sidebar.title("🧠 TemanMood")
+st.sidebar.title(" TemanMood")
 st.sidebar.markdown("Dashboard Analisis Mood & Aktivitas")
 
-page = st.sidebar.radio("Navigasi", ["📊 Overview", "🏃 Aktivitas", "🔗 Mood-Aktivitas", "⏰ Analisis Waktu", "💡 Rekomendasi"])
+page = st.sidebar.radio("Navigasi", [" Overview", " Aktivitas", " Mood-Aktivitas", " Analisis Waktu", " Rekomendasi"])
 
 mood_filter = st.sidebar.multiselect("Filter Mood", mood_order, default=mood_order)
 df_filtered = df[df['mood'].isin(mood_filter)]
 df_exp_filtered = df_exploded[df_exploded['mood'].isin(mood_filter)]
 
 # === PAGES ===
-if page == "📊 Overview":
-    st.title("📊 Overview Mood Pengguna")
+if page == " Overview":
+    st.title(" Overview Mood Pengguna")
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Entri", len(df_filtered))
@@ -90,8 +90,8 @@ if page == "📊 Overview":
     fig.add_hline(y=3, line_dash="dash", line_color="gray", annotation_text="Netral")
     st.plotly_chart(fig, use_container_width=True)
 
-elif page == "🏃 Aktivitas":
-    st.title("🏃 Analisis Aktivitas")
+elif page == " Aktivitas":
+    st.title(" Analisis Aktivitas")
 
     top_n = st.slider("Jumlah Top Aktivitas", 5, 20, 10)
     top_act = df_exp_filtered['activities_list'].value_counts().head(top_n)
@@ -107,8 +107,8 @@ elif page == "🏃 Aktivitas":
                        color_discrete_sequence=['#3498db'])
     st.plotly_chart(fig, use_container_width=True)
 
-elif page == "🔗 Mood-Aktivitas":
-    st.title("🔗 Hubungan Mood & Aktivitas")
+elif page == " Mood-Aktivitas":
+    st.title(" Hubungan Mood & Aktivitas")
 
     top10 = df_exp_filtered['activities_list'].value_counts().head(10).index
     df_top = df_exp_filtered[df_exp_filtered['activities_list'].isin(top10)]
@@ -127,8 +127,8 @@ elif page == "🔗 Mood-Aktivitas":
     fig.add_hline(y=3, line_dash="dash", line_color="gray")
     st.plotly_chart(fig, use_container_width=True)
 
-elif page == "⏰ Analisis Waktu":
-    st.title("⏰ Analisis Berbasis Waktu")
+elif page == " Analisis Waktu":
+    st.title(" Analisis Berbasis Waktu")
 
     col1, col2 = st.columns(2)
     with col1:
@@ -153,8 +153,8 @@ elif page == "⏰ Analisis Waktu":
                     title="Heatmap: Hari vs Mood (%)", aspect="auto")
     st.plotly_chart(fig, use_container_width=True)
 
-elif page == "💡 Rekomendasi":
-    st.title("💡 Sistem Rekomendasi Aktivitas")
+elif page == " Rekomendasi":
+    st.title(" Sistem Rekomendasi Aktivitas")
 
     selected_mood = st.selectbox("Pilih Mood Anda Saat Ini:", mood_order)
 
@@ -162,9 +162,9 @@ elif page == "💡 Rekomendasi":
     top_activities = df_mood['activities_list'].value_counts().head(5)
 
     msgs = {
-        "Positif": "Pertahankan energi positif dan lanjutkan rutinitas baikmu! 🌟",
-        "Netral": "Lakukan aktivitas ringan untuk boost mood. 🙂",
-        "Negatif": "Tidak apa-apa merasa kurang baik. Prioritaskan istirahat dan pemulihan. 💙"
+        "Positif": "Pertahankan energi positif dan lanjutkan rutinitas baikmu! ",
+        "Netral": "Lakukan aktivitas ringan untuk boost mood. ",
+        "Negatif": "Tidak apa-apa merasa kurang baik. Prioritaskan istirahat dan pemulihan. "
     }
 
     st.info(msgs.get(selected_mood, "Jaga keseimbangan emosi."))

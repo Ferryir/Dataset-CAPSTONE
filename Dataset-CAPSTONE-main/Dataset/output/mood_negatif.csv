@@ -1,95 +1,369 @@
-full_date,weekday,hour,mood,mood_score,sub_mood,activities,activity_count,is_weekend,has_meditation,has_exercise,mood_positive
-2021-04-12,Monday,21,Negatif,1,angry,reading | learning  | fasting  | walk | meditation  | shower | writing | Watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | Documentary  | penpal | coding  | Tutorial,22,0,1,1,0
-2021-03-01,Monday,20,Negatif,1,awful,reading | learning  | fasting  | meditation  | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | power nap | Documentary  | coding  | Tutorial,19,0,1,0,0
-2021-02-14,Sunday,12,Negatif,1,worried,reading | learning  | fasting  | walk | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | Documentary  | penpal | coding  | Tutorial,21,1,0,1,0
-2021-02-12,Friday,21,Negatif,1,worried,reading | learning  | prayer | fasting  | walk | meditation  | shower | Audio books  | Watching series  | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | Email | Documentary  | penpal | coding  | Tutorial,22,0,1,1,0
-2021-01-22,Friday,13,Negatif,1,angry,reading | learning  | prayer | fasting  | walk | Audio books  | writing | Watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | Documentary  | penpal | coding  | Tutorial,22,0,0,1,0
-2020-12-18,Friday,22,Negatif,1,angry,reading | learning  | prayer | fasting  | shower | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | Documentary  | penpal | coding  | Tutorial,23,0,0,0,0
-2020-12-17,Thursday,15,Negatif,1,triggered,reading | learning  | Art | fasting  | shower | podcast | Audio books  | writing | Watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | power nap | designing  | Documentary  | penpal | coding  | Tutorial,24,0,0,0,0
-2020-12-12,Saturday,21,Negatif,1,worried,learning  | Art | walk | shower | Dota 2 | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | power nap | songs | penpal | coding  | Tutorial,22,1,0,1,0
-2020-12-11,Friday,21,Negatif,1,sad af,learning  | walk | Audio books  | writing | Watching series  | streaming  | youtube | cleaning | research  | new things  | penpal | coding  | Tutorial  | love,14,0,0,1,0
-2020-12-08,Tuesday,22,Negatif,1,worried,reading | prayer | fasting  | walk | Audio books  | writing | Watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | new things  | penpal | coding  | Tutorial,19,0,0,1,0
-2020-12-06,Sunday,22,Negatif,1,scared,reading | learning  | prayer | fasting  | walk | meditation  | shower | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | new things  | power nap | songs | Documentary  | penpal | coding  | Tutorial  | love,25,1,1,1,0
-2020-10-19,Monday,21,Negatif,1,sad af,reading | learning  | prayer | fasting  | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | new things  | songs | Documentary  | coding  | Tutorial,26,0,1,1,0
-2020-10-10,Saturday,22,Negatif,1,worried,learning  | fasting  | walk | shower | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | travel | research  | power nap | Email | Documentary  | penpal | coding  | Tutorial,21,1,0,1,0
-2020-10-09,Friday,21,Negatif,1,worried,learning  | prayer | fasting  | Exercise  | Quran  | walk | shower | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | power nap | Email | Documentary  | penpal | coding  | Tutorial,25,0,0,1,0
-2020-09-29,Tuesday,21,Negatif,1,scared,Art | fasting  | walk | Watching series  | News Update | good meal | reddit | streaming  | youtube | cooking | research  | new things  | power nap | Documentary  | penpal | coding  | Tutorial,17,0,0,1,0
-2020-09-25,Friday,12,Negatif,1,worried,learning  | Art | prayer | fasting  | Exercise  | Quran  | walk | shower | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | shave  | streaming  | youtube | cooking | research  | new things  | power nap | Email | songs | designing  | penpal | coding  | Tutorial  | Recording,28,0,0,1,0
-2020-09-24,Thursday,21,Negatif,1,triggered,learning  | prayer | fasting  | Quran  | walk | shower | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cleaning | research  | new things  | penpal | coding  | Tutorial,21,0,0,1,0
-2020-09-23,Wednesday,21,Negatif,1,worried,learning  | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | power nap | penpal | coding,16,0,0,0,0
-2020-09-18,Friday,19,Negatif,1,triggered,learning  | prayer | fasting  | Quran  | walk | meditation  | shower | Audio books  | writing | Watching series  | News Update | reddit | language learning  | streaming  | youtube | cooking | cleaning | research  | new things  | songs | Documentary  | penpal | coding  | Tutorial,24,0,1,1,0
-2020-09-16,Wednesday,17,Negatif,1,sad af,Art | prayer | fasting  | walk | shower | Audio books  | Watching series  | good meal | reddit | language learning  | streaming  | youtube | cooking | research  | power nap | Documentary  | coding  | Tutorial  | love,19,0,0,1,0
-2020-09-01,Tuesday,21,Negatif,1,triggered,walk | podcast | Audio books  | good meal | language learning  | streaming  | cooking,7,0,0,1,0
-2020-08-29,Saturday,21,Negatif,1,scared,learning  | Art | prayer | fasting  | Quran  | walk | meditation  | shower | podcast | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | travel | Documentary  | coding  | Recording,21,1,1,1,0
-2020-08-28,Friday,22,Negatif,1,sad af,prayer | fasting  | Quran  | walk | meditation  | shower | podcast | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cooking | family | power nap | penpal | coding  | Recording,21,0,1,1,0
-2020-08-25,Tuesday,22,Negatif,1,awful,Art | fasting  | Exercise  | meditation  | Audio books  | writing | Watching series  | reddit | language learning  | streaming  | youtube | power nap | Documentary  | coding  | Recording,15,0,1,1,0
-2020-08-20,Thursday,20,Negatif,1,worried,reading | Art | prayer | fasting  | Quran  | walk | meditation  | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | songs | Documentary  | Recording,19,0,1,1,0
-2020-08-19,Wednesday,21,Negatif,1,scared,reading | Art | prayer | fasting  | Quran  | walk | meditation  | shower | Dota 2 | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | new things  | family | Email | Documentary  | jobs | Recording,24,0,1,1,0
-2020-08-19,Wednesday,13,Negatif,1,worried,fasting  | News Update | good meal | reddit | language learning  | streaming  | youtube | family | Documentary  | love,10,0,0,0,0
-2020-08-18,Tuesday,20,Negatif,1,sad af,prayer | fasting  | Quran  | walk | meditation  | shower | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | travel | friends | jobs | love,18,0,1,1,0
-2020-08-16,Sunday,21,Negatif,1,awful,Art | Write dairy  | prayer | fasting  | Quran  | walk | meditation  | shower | podcast | Audio books  | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | research  | Documentary,19,1,1,1,0
-2020-08-16,Sunday,18,Negatif,1,sad af,Art | fasting  | meditation  | podcast | Audio books  | News Update | good meal | reddit | language learning  | youtube | love,11,1,1,0,0
-2020-08-15,Saturday,21,Negatif,1,bad,Art | walk | podcast | Audio books  | Watching series  | reddit | language learning  | streaming  | youtube,9,1,0,1,0
-2020-08-15,Saturday,17,Negatif,1,angry,learning  | walk | shower | Audio books  | writing | Watching series  | News Update | reddit | language learning  | youtube | power nap | Documentary  | coding  | Tutorial,14,1,0,1,0
-2020-08-13,Thursday,22,Negatif,1,worried,Write dairy  | prayer | fasting  | walk | meditation  | shower | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | love,17,0,1,1,0
-2020-08-07,Friday,7,Negatif,1,angry,reading | learning  | Art | prayer | fasting  | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | movies | gaming | new things  | family | power nap | songs | designing  | Documentary  | love | Recording,30,0,1,1,0
-2020-08-06,Thursday,21,Negatif,1,bad,Art | prayer | fasting  | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | News Update | good meal | reddit | language learning  | shave  | streaming  | youtube | research  | family | power nap | songs | designing  | love,24,0,1,1,0
-2020-08-05,Wednesday,14,Negatif,1,awful,reading | learning  | Art | prayer | fasting  | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | research  | family | power nap | songs | Documentary  | love,26,0,1,1,0
-2020-08-04,Tuesday,19,Negatif,1,bad,prayer | fasting  | Exercise  | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | research  | power nap | songs | designing  | Documentary,23,0,1,1,0
-2020-07-29,Wednesday,20,Negatif,1,angry,Write dairy  | prayer | Quran  | walk | meditation  | shower | Dota 2 | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | shave  | streaming  | youtube | cleaning | research  | power nap | songs,21,0,1,1,0
-2020-07-17,Friday,7,Negatif,1,scared,reading | learning  | Art | prayer | Quran  | walk | meditation  | shower | Dota 2 | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | cleaning | new things  | family | power nap | songs | designing  | Documentary  | Tutorial  | love | Recording,29,0,1,1,0
-2020-07-04,Saturday,10,Negatif,1,angry,reading | Art | prayer | Quran  | walk | shower | Dota 2 | Audio books  | writing | News Update | good meal | reddit | streaming  | youtube | phd | love,16,1,0,1,0
-2020-06-07,Sunday,21,Negatif,1,worried,reading | Art | Write dairy  | walk | shower | podcast | writing | News Update | good meal | reddit | language learning  | streaming  | youtube | power nap | songs | penpal,16,1,0,1,0
-2020-06-02,Tuesday,15,Negatif,1,worried,Art | fasting  | Dota 2 | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | penpal,11,0,0,0,0
-2020-05-20,Wednesday,15,Negatif,1,angry,reading | learning  | Art | prayer | fasting  | Exercise  | Quran  | walk | meditation  | shower | podcast | Audio books  | writing | News Update | good meal | reddit | language learning  | streaming  | youtube | research  | power nap | Email | songs,23,0,1,1,0
-2020-05-19,Tuesday,15,Negatif,1,worried,reading | learning  | Art | Write dairy  | prayer | fasting  | Quran  | walk | meditation  | shower | podcast | Audio books  | writing | Watching series  | News Update | good meal | reddit | language learning  | streaming  | youtube | research  | new things  | family | songs | designing  | weight log,26,0,1,1,0
-2020-04-22,Wednesday,10,Negatif,1,scared,Art | prayer | Quran  | walk | meditation  | shower | writing | Watching series  | News Update | good meal | reddit | streaming  | youtube | power nap | songs | designing  | penpal,17,0,1,1,0
-2020-04-09,Thursday,21,Negatif,1,sad af,prayer | fasting  | Quran  | walk | meditation  | shower | writing | Watching series  | News Update | good meal | reddit | streaming  | youtube | movies | family | power nap | songs | designing  | penpal,19,0,1,1,0
-2020-02-03,Monday,19,Negatif,1,angry,fasting  | walk | meditation  | shower | Dota 2 | Audio books  | Watching series  | News Update | good meal | reddit | streaming  | youtube | movies | songs | penpal | keto,16,0,1,1,0
-2019-05-04,Saturday,10,Negatif,1,triggered,Dota 2 | podcast | Audio books  | News Update | good meal | reddit | streaming  | youtube | Email | songs | designing  | weight log,12,1,0,0,0
-2019-01-04,Friday,10,Negatif,1,sick,Dota 2 | podcast | News Update | good meal | youtube | gaming | family,7,0,0,0,0
-2018-12-23,Sunday,19,Negatif,1,sad af,Dota 2 | streaming  | youtube,3,1,0,0,0
-2018-12-05,Wednesday,19,Negatif,1,scared,walk | Dota 2 | podcast | Watching series  | News Update | good meal | streaming  | youtube | designing,9,0,0,1,0
-2018-12-01,Saturday,19,Negatif,1,angry,Audio books  | News Update | travel | family,4,1,0,0,0
-2018-09-25,Tuesday,10,Negatif,1,sick,youtube,1,0,0,0,0
-2018-09-18,Tuesday,10,Negatif,1,worried,prayer,1,0,0,0,0
-2018-09-13,Thursday,14,Negatif,1,triggered,Dota 2,1,0,0,0,0
-2018-09-13,Thursday,10,Negatif,1,sick,Audio books  | News Update | power nap,3,0,0,0,0
-2018-09-12,Wednesday,19,Negatif,1,sick,Dota 2 | youtube,2,0,0,0,0
-2018-09-12,Wednesday,14,Negatif,1,triggered,Dota 2,1,0,0,0,0
-2018-07-17,Tuesday,19,Negatif,1,sad af,Dota 2 | podcast | good meal | streaming  | youtube | weight log,6,0,0,0,0
-2018-07-08,Sunday,14,Negatif,1,worried,Dota 2,1,1,0,0,0
-2018-07-07,Saturday,14,Negatif,1,triggered,Dota 2,1,1,0,0,0
-2018-07-06,Friday,19,Negatif,1,triggered,fasting  | Dota 2,2,0,0,0,0
-2018-07-06,Friday,14,Negatif,1,triggered,prayer | fasting  | meditation  | shower | streaming  | youtube,6,0,1,0,0
-2018-06-17,Sunday,14,Negatif,1,worried,streaming  | youtube | movies,3,1,0,0,0
-2018-05-02,Wednesday,20,Negatif,1,sad af,Dota 2 | streaming  | youtube,3,0,0,0,0
-2018-05-02,Wednesday,14,Negatif,1,triggered,streaming  | youtube | Email,3,0,0,0,0
-2018-05-02,Wednesday,11,Negatif,1,worried,youtube | Email,2,0,0,0,0
-2018-05-01,Tuesday,14,Negatif,1,worried,reading | Write dairy  | youtube | research,4,0,0,0,0
-2018-04-20,Friday,19,Negatif,1,triggered,Dota 2,1,0,0,0,0
-2018-04-09,Monday,19,Negatif,1,worried,Dota 2 | podcast | Audio books  | streaming  | youtube | songs,6,0,0,0,0
-2018-04-05,Thursday,14,Negatif,1,sick,streaming,1,0,0,0,0
-2018-04-04,Wednesday,10,Negatif,1,sad af,Dota 2 | streaming,2,0,0,0,0
-2018-04-03,Tuesday,14,Negatif,1,sick,good meal | streaming  | travel,3,0,0,0,0
-2018-03-26,Monday,8,Negatif,1,worried,streaming,1,0,0,0,0
-2018-03-20,Tuesday,10,Negatif,1,worried,Dota 2 | streaming  | youtube | research,4,0,0,0,0
-2018-03-07,Wednesday,19,Negatif,1,worried,Watching series  | research  | power nap,3,0,0,0,0
-2018-03-07,Wednesday,11,Negatif,1,worried,Dota 2,1,0,0,0,0
-2018-03-05,Monday,19,Negatif,1,angry,Dota 2 | streaming  | youtube,3,0,0,0,0
-2018-03-05,Monday,10,Negatif,1,triggered,Dota 2,1,0,0,0,0
-2018-03-01,Thursday,20,Negatif,1,worried,Dota 2 | streaming  | youtube,3,0,0,0,0
-2018-02-24,Saturday,9,Negatif,1,scared,prayer | power nap,2,1,0,0,0
-2018-02-14,Wednesday,19,Negatif,1,triggered,walk | youtube | songs,3,0,0,1,0
-2018-02-14,Wednesday,14,Negatif,1,angry,Dota 2 | youtube | gaming | research,4,0,0,0,0
-2018-02-14,Wednesday,13,Negatif,1,angry,Dota 2 | youtube | gaming,3,0,0,0,0
-2018-02-14,Wednesday,10,Negatif,1,triggered,prayer | youtube | weight log,3,0,0,0,0
-2018-02-13,Tuesday,18,Negatif,1,angry,Dota 2 | family | Email,3,0,0,0,0
-2018-02-13,Tuesday,14,Negatif,1,angry,good meal | youtube | Email,3,0,0,0,0
-2018-02-12,Monday,19,Negatif,1,triggered,Dota 2 | streaming  | youtube | new things  | family | Email | songs,7,0,0,0,0
-2018-02-10,Saturday,14,Negatif,1,triggered,Dota 2 | streaming  | youtube,3,1,0,0,0
-2018-02-07,Wednesday,17,Negatif,1,sick,walk | Audio books  | research  | family | hospital,5,0,0,1,0
-2018-02-07,Wednesday,10,Negatif,1,triggered,prayer | fasting  | Dota 2 | youtube | power nap,5,0,0,0,0
-2018-02-06,Tuesday,20,Negatif,1,sick,Dota 2 | streaming  | family,3,0,0,0,0
-2018-02-06,Tuesday,9,Negatif,1,bad,fasting  | walk | meditation  | travel | hospital,5,0,1,1,0
-2018-02-03,Saturday,19,Negatif,1,angry,Write dairy  | Dota 2 | streaming  | shopping,4,1,0,0,0
+tanggal_lengkap,hari,hour,mood,mood_score,sub_suasana_hati,aktivitas,activity_count,is_weekend,has_meditation,has_exercise,mood_positive
+2019-05-04,Sabtu,10,Negatif,1,tersulut emosi,Dota 2 | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Surel | Mendengarkan Lagu | Desain | Catatan Berat Badan,12,1,0,0,0
+2020-08-07,Jumat,7,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Menonton Film | Bermain Game | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Cinta | Rekaman,30,0,1,1,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-09-12,Rabu,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2018-09-12,Rabu,19,Negatif,1,sakit,Dota 2 | YouTube,2,0,0,0,0
+2020-04-22,Rabu,10,Negatif,1,takut,Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,17,0,1,1,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-09-13,Kamis,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2018-07-07,Sabtu,14,Negatif,1,tersulut emosi,Dota 2,1,1,0,0,0
+2020-08-29,Sabtu,21,Negatif,1,takut,Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Traveling | Dokumenter | Coding | Rekaman,21,1,1,1,0
+2018-04-04,Rabu,10,Negatif,1,sangat sedih,Dota 2 | Streaming,2,0,0,0,0
+2020-08-16,Minggu,21,Negatif,1,sangat buruk,Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Dokumenter,19,1,1,1,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2018-03-26,Senin,8,Negatif,1,khawatir,Streaming,1,0,0,0,0
+2020-12-06,Minggu,22,Negatif,1,takut,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial | Cinta,25,1,1,1,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2020-09-18,Jumat,19,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,1,1,0
+2018-05-02,Rabu,11,Negatif,1,khawatir,YouTube | Surel,2,0,0,0,0
+2020-05-19,Selasa,15,Negatif,1,khawatir,Membaca | Belajar | Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Hal Baru | Keluarga | Mendengarkan Lagu | Desain | Catatan Berat Badan,26,0,1,1,0
+2018-07-17,Selasa,19,Negatif,1,sangat sedih,Dota 2 | Podcast | Makan Enak | Streaming | YouTube | Catatan Berat Badan,6,0,0,0,0
+2020-08-05,Rabu,14,Negatif,1,sangat buruk,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Cinta,26,0,1,1,0
+2020-12-11,Jumat,21,Negatif,1,sangat sedih,Belajar | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial | Cinta,14,0,0,1,0
+2018-03-05,Senin,10,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-02-03,Sabtu,19,Negatif,1,marah,Menulis Jurnal | Dota 2 | Streaming | Belanja,4,1,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2020-05-19,Selasa,15,Negatif,1,khawatir,Membaca | Belajar | Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Hal Baru | Keluarga | Mendengarkan Lagu | Desain | Catatan Berat Badan,26,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2020-08-25,Selasa,22,Negatif,1,sangat buruk,Seni | Berpuasa | Olahraga | Meditasi | Buku Audio | Menulis | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Rekaman,15,0,1,1,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2020-08-16,Minggu,18,Negatif,1,sangat sedih,Seni | Berpuasa | Meditasi | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | YouTube | Cinta,11,1,1,0,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2018-02-14,Rabu,19,Negatif,1,tersulut emosi,Jalan Kaki | YouTube | Mendengarkan Lagu,3,0,0,1,0
+2018-04-04,Rabu,10,Negatif,1,sangat sedih,Dota 2 | Streaming,2,0,0,0,0
+2020-09-29,Selasa,21,Negatif,1,takut,Seni | Berpuasa | Jalan Kaki | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,17,0,0,1,0
+2018-04-05,Kamis,14,Negatif,1,sakit,Streaming,1,0,0,0,0
+2018-03-05,Senin,10,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-05-19,Selasa,15,Negatif,1,khawatir,Membaca | Belajar | Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Hal Baru | Keluarga | Mendengarkan Lagu | Desain | Catatan Berat Badan,26,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2020-04-22,Rabu,10,Negatif,1,takut,Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,17,0,1,1,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2018-12-05,Rabu,19,Negatif,1,takut,Jalan Kaki | Dota 2 | Podcast | Menonton Serial | Berita Terkini | Makan Enak | Streaming | YouTube | Desain,9,0,0,1,0
+2018-03-05,Senin,10,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-24,Sabtu,9,Negatif,1,takut,Berdoa | Tidur Siang Singkat,2,1,0,0,0
+2018-12-01,Sabtu,19,Negatif,1,marah,Buku Audio | Berita Terkini | Traveling | Keluarga,4,1,0,0,0
+2018-06-17,Minggu,14,Negatif,1,khawatir,Streaming | YouTube | Menonton Film,3,1,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-04-22,Rabu,10,Negatif,1,takut,Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,17,0,1,1,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2020-08-19,Rabu,13,Negatif,1,khawatir,Berpuasa | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Keluarga | Dokumenter | Cinta,10,0,0,0,0
+2018-09-25,Selasa,10,Negatif,1,sakit,YouTube,1,0,0,0,0
+2020-04-22,Rabu,10,Negatif,1,takut,Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,17,0,1,1,0
+2018-07-08,Minggu,14,Negatif,1,khawatir,Dota 2,1,1,0,0,0
+2021-03-01,Senin,20,Negatif,1,sangat buruk,Membaca | Belajar | Berpuasa | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,19,0,1,0,0
+2018-07-06,Jumat,19,Negatif,1,tersulut emosi,Berpuasa | Dota 2,2,0,0,0,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-12-01,Sabtu,19,Negatif,1,marah,Buku Audio | Berita Terkini | Traveling | Keluarga,4,1,0,0,0
+2021-02-14,Minggu,12,Negatif,1,khawatir,Membaca | Belajar | Berpuasa | Jalan Kaki | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2018-04-09,Senin,19,Negatif,1,khawatir,Dota 2 | Podcast | Buku Audio | Streaming | YouTube | Mendengarkan Lagu,6,0,0,0,0
+2018-09-12,Rabu,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-08-15,Sabtu,17,Negatif,1,marah,Belajar | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,14,1,0,1,0
+2018-02-07,Rabu,17,Negatif,1,sakit,Jalan Kaki | Buku Audio | Penelitian | Keluarga | Rumah Sakit,5,0,0,1,0
+2020-08-13,Kamis,22,Negatif,1,khawatir,Menulis Jurnal | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Cinta,17,0,1,1,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-02-24,Sabtu,9,Negatif,1,takut,Berdoa | Tidur Siang Singkat,2,1,0,0,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2020-08-16,Minggu,21,Negatif,1,sangat buruk,Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Dokumenter,19,1,1,1,0
+2020-12-08,Selasa,22,Negatif,1,khawatir,Membaca | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,19,0,0,1,0
+2020-09-01,Selasa,21,Negatif,1,tersulut emosi,Jalan Kaki | Podcast | Buku Audio | Makan Enak | Belajar Bahasa | Streaming | Memasak,7,0,0,1,0
+2018-02-14,Rabu,19,Negatif,1,tersulut emosi,Jalan Kaki | YouTube | Mendengarkan Lagu,3,0,0,1,0
+2018-07-17,Selasa,19,Negatif,1,sangat sedih,Dota 2 | Podcast | Makan Enak | Streaming | YouTube | Catatan Berat Badan,6,0,0,0,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-07,Rabu,17,Negatif,1,sakit,Jalan Kaki | Buku Audio | Penelitian | Keluarga | Rumah Sakit,5,0,0,1,0
+2020-08-13,Kamis,22,Negatif,1,khawatir,Menulis Jurnal | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Cinta,17,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2021-02-12,Jumat,21,Negatif,1,khawatir,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2019-05-04,Sabtu,10,Negatif,1,tersulut emosi,Dota 2 | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Surel | Mendengarkan Lagu | Desain | Catatan Berat Badan,12,1,0,0,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2018-09-13,Kamis,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-10-19,Senin,21,Negatif,1,sangat sedih,Membaca | Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Coding | Tutorial,26,0,1,1,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2018-07-08,Minggu,14,Negatif,1,khawatir,Dota 2,1,1,0,0,0
+2018-02-13,Selasa,18,Negatif,1,marah,Dota 2 | Keluarga | Surel,3,0,0,0,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2018-05-02,Rabu,14,Negatif,1,tersulut emosi,Streaming | YouTube | Surel,3,0,0,0,0
+2018-02-24,Sabtu,9,Negatif,1,takut,Berdoa | Tidur Siang Singkat,2,1,0,0,0
+2018-07-17,Selasa,19,Negatif,1,sangat sedih,Dota 2 | Podcast | Makan Enak | Streaming | YouTube | Catatan Berat Badan,6,0,0,0,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2021-02-12,Jumat,21,Negatif,1,khawatir,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2020-08-19,Rabu,13,Negatif,1,khawatir,Berpuasa | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Keluarga | Dokumenter | Cinta,10,0,0,0,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2020-06-02,Selasa,15,Negatif,1,khawatir,Seni | Berpuasa | Dota 2 | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Sahabat Pena,11,0,0,0,0
+2018-07-06,Jumat,19,Negatif,1,tersulut emosi,Berpuasa | Dota 2,2,0,0,0,0
+2020-08-07,Jumat,7,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Menonton Film | Bermain Game | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Cinta | Rekaman,30,0,1,1,0
+2020-07-17,Jumat,7,Negatif,1,takut,Membaca | Belajar | Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Tutorial | Cinta | Rekaman,29,0,1,1,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2020-09-18,Jumat,19,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,1,1,0
+2020-10-09,Jumat,21,Negatif,1,khawatir,Belajar | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,25,0,0,1,0
+2020-08-28,Jumat,22,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Keluarga | Tidur Siang Singkat | Sahabat Pena | Coding | Rekaman,21,0,1,1,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2018-09-18,Selasa,10,Negatif,1,khawatir,Berdoa,1,0,0,0,0
+2018-09-12,Rabu,19,Negatif,1,sakit,Dota 2 | YouTube,2,0,0,0,0
+2018-02-14,Rabu,13,Negatif,1,marah,Dota 2 | YouTube | Bermain Game,3,0,0,0,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2018-12-05,Rabu,19,Negatif,1,takut,Jalan Kaki | Dota 2 | Podcast | Menonton Serial | Berita Terkini | Makan Enak | Streaming | YouTube | Desain,9,0,0,1,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2019-05-04,Sabtu,10,Negatif,1,tersulut emosi,Dota 2 | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Surel | Mendengarkan Lagu | Desain | Catatan Berat Badan,12,1,0,0,0
+2020-05-20,Rabu,15,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Surel | Mendengarkan Lagu,23,0,1,1,0
+2018-07-17,Selasa,19,Negatif,1,sangat sedih,Dota 2 | Podcast | Makan Enak | Streaming | YouTube | Catatan Berat Badan,6,0,0,0,0
+2020-08-28,Jumat,22,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Keluarga | Tidur Siang Singkat | Sahabat Pena | Coding | Rekaman,21,0,1,1,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2018-02-13,Selasa,14,Negatif,1,marah,Makan Enak | YouTube | Surel,3,0,0,0,0
+2018-04-09,Senin,19,Negatif,1,khawatir,Dota 2 | Podcast | Buku Audio | Streaming | YouTube | Mendengarkan Lagu,6,0,0,0,0
+2021-02-14,Minggu,12,Negatif,1,khawatir,Membaca | Belajar | Berpuasa | Jalan Kaki | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2020-08-05,Rabu,14,Negatif,1,sangat buruk,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Cinta,26,0,1,1,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-02-03,Sabtu,19,Negatif,1,marah,Menulis Jurnal | Dota 2 | Streaming | Belanja,4,1,0,0,0
+2018-07-06,Jumat,19,Negatif,1,tersulut emosi,Berpuasa | Dota 2,2,0,0,0,0
+2020-10-19,Senin,21,Negatif,1,sangat sedih,Membaca | Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Coding | Tutorial,26,0,1,1,0
+2018-02-03,Sabtu,19,Negatif,1,marah,Menulis Jurnal | Dota 2 | Streaming | Belanja,4,1,0,0,0
+2020-06-07,Minggu,21,Negatif,1,khawatir,Membaca | Seni | Menulis Jurnal | Jalan Kaki | Mandi | Podcast | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena,16,1,0,1,0
+2018-04-09,Senin,19,Negatif,1,khawatir,Dota 2 | Podcast | Buku Audio | Streaming | YouTube | Mendengarkan Lagu,6,0,0,0,0
+2018-02-07,Rabu,10,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Dota 2 | YouTube | Tidur Siang Singkat,5,0,0,0,0
+2021-03-01,Senin,20,Negatif,1,sangat buruk,Membaca | Belajar | Berpuasa | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,19,0,1,0,0
+2021-03-01,Senin,20,Negatif,1,sangat buruk,Membaca | Belajar | Berpuasa | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,19,0,1,0,0
+2018-09-25,Selasa,10,Negatif,1,sakit,YouTube,1,0,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2018-07-07,Sabtu,14,Negatif,1,tersulut emosi,Dota 2,1,1,0,0,0
+2020-08-19,Rabu,21,Negatif,1,takut,Membaca | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Hal Baru | Keluarga | Surel | Dokumenter | Pekerjaan | Rekaman,24,0,1,1,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-12-01,Sabtu,19,Negatif,1,marah,Buku Audio | Berita Terkini | Traveling | Keluarga,4,1,0,0,0
+2020-08-29,Sabtu,21,Negatif,1,takut,Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Traveling | Dokumenter | Coding | Rekaman,21,1,1,1,0
+2018-07-08,Minggu,14,Negatif,1,khawatir,Dota 2,1,1,0,0,0
+2020-08-15,Sabtu,17,Negatif,1,marah,Belajar | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,14,1,0,1,0
+2020-12-18,Jumat,22,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,23,0,0,0,0
+2018-02-13,Selasa,14,Negatif,1,marah,Makan Enak | YouTube | Surel,3,0,0,0,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2021-02-12,Jumat,21,Negatif,1,khawatir,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2020-08-20,Kamis,20,Negatif,1,khawatir,Membaca | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Mendengarkan Lagu | Dokumenter | Rekaman,19,0,1,1,0
+2020-08-20,Kamis,20,Negatif,1,khawatir,Membaca | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Mendengarkan Lagu | Dokumenter | Rekaman,19,0,1,1,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2021-04-12,Senin,21,Negatif,1,marah,Membaca | Belajar | Berpuasa | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2020-06-07,Minggu,21,Negatif,1,khawatir,Membaca | Seni | Menulis Jurnal | Jalan Kaki | Mandi | Podcast | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena,16,1,0,1,0
+2020-07-04,Sabtu,10,Negatif,1,marah,Membaca | Seni | Berdoa | Membaca Quran | Jalan Kaki | Mandi | Dota 2 | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Program Doktor | Cinta,16,1,0,1,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-02-14,Rabu,10,Negatif,1,tersulut emosi,Berdoa | YouTube | Catatan Berat Badan,3,0,0,0,0
+2018-05-02,Rabu,14,Negatif,1,tersulut emosi,Streaming | YouTube | Surel,3,0,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2018-02-14,Rabu,19,Negatif,1,tersulut emosi,Jalan Kaki | YouTube | Mendengarkan Lagu,3,0,0,1,0
+2018-02-14,Rabu,13,Negatif,1,marah,Dota 2 | YouTube | Bermain Game,3,0,0,0,0
+2020-08-13,Kamis,22,Negatif,1,khawatir,Menulis Jurnal | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Cinta,17,0,1,1,0
+2020-12-17,Kamis,15,Negatif,1,tersulut emosi,Membaca | Belajar | Seni | Berpuasa | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Tidur Siang Singkat | Desain | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,0,0,0
+2020-12-12,Sabtu,21,Negatif,1,khawatir,Belajar | Seni | Jalan Kaki | Mandi | Dota 2 | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena | Coding | Tutorial,22,1,0,1,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2020-09-01,Selasa,21,Negatif,1,tersulut emosi,Jalan Kaki | Podcast | Buku Audio | Makan Enak | Belajar Bahasa | Streaming | Memasak,7,0,0,1,0
+2020-12-12,Sabtu,21,Negatif,1,khawatir,Belajar | Seni | Jalan Kaki | Mandi | Dota 2 | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena | Coding | Tutorial,22,1,0,1,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2018-03-26,Senin,8,Negatif,1,khawatir,Streaming,1,0,0,0,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2020-10-10,Sabtu,22,Negatif,1,khawatir,Belajar | Berpuasa | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2019-05-04,Sabtu,10,Negatif,1,tersulut emosi,Dota 2 | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Surel | Mendengarkan Lagu | Desain | Catatan Berat Badan,12,1,0,0,0
+2020-08-19,Rabu,13,Negatif,1,khawatir,Berpuasa | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Keluarga | Dokumenter | Cinta,10,0,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-12-17,Kamis,15,Negatif,1,tersulut emosi,Membaca | Belajar | Seni | Berpuasa | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Tidur Siang Singkat | Desain | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,0,0,0
+2020-08-18,Selasa,20,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Traveling | Teman | Pekerjaan | Cinta,18,0,1,1,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2020-02-03,Senin,19,Negatif,1,marah,Berpuasa | Jalan Kaki | Meditasi | Mandi | Dota 2 | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Menonton Film | Mendengarkan Lagu | Sahabat Pena | Diet Keto,16,0,1,1,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-12-23,Minggu,19,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2020-08-07,Jumat,7,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Menonton Film | Bermain Game | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Cinta | Rekaman,30,0,1,1,0
+2018-02-13,Selasa,14,Negatif,1,marah,Makan Enak | YouTube | Surel,3,0,0,0,0
+2020-08-13,Kamis,22,Negatif,1,khawatir,Menulis Jurnal | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Cinta,17,0,1,1,0
+2020-02-03,Senin,19,Negatif,1,marah,Berpuasa | Jalan Kaki | Meditasi | Mandi | Dota 2 | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Menonton Film | Mendengarkan Lagu | Sahabat Pena | Diet Keto,16,0,1,1,0
+2021-02-12,Jumat,21,Negatif,1,khawatir,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-04-09,Senin,19,Negatif,1,khawatir,Dota 2 | Podcast | Buku Audio | Streaming | YouTube | Mendengarkan Lagu,6,0,0,0,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-02-14,Rabu,19,Negatif,1,tersulut emosi,Jalan Kaki | YouTube | Mendengarkan Lagu,3,0,0,1,0
+2018-09-18,Selasa,10,Negatif,1,khawatir,Berdoa,1,0,0,0,0
+2019-05-04,Sabtu,10,Negatif,1,tersulut emosi,Dota 2 | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Surel | Mendengarkan Lagu | Desain | Catatan Berat Badan,12,1,0,0,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2018-09-25,Selasa,10,Negatif,1,sakit,YouTube,1,0,0,0,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2020-10-10,Sabtu,22,Negatif,1,khawatir,Belajar | Berpuasa | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2020-08-05,Rabu,14,Negatif,1,sangat buruk,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Cinta,26,0,1,1,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2018-02-24,Sabtu,9,Negatif,1,takut,Berdoa | Tidur Siang Singkat,2,1,0,0,0
+2020-09-29,Selasa,21,Negatif,1,takut,Seni | Berpuasa | Jalan Kaki | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,17,0,0,1,0
+2018-09-12,Rabu,19,Negatif,1,sakit,Dota 2 | YouTube,2,0,0,0,0
+2021-02-12,Jumat,21,Negatif,1,khawatir,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2018-09-12,Rabu,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2021-01-22,Jumat,13,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,0,1,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2018-09-18,Selasa,10,Negatif,1,khawatir,Berdoa,1,0,0,0,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2018-02-10,Sabtu,14,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2020-08-15,Sabtu,17,Negatif,1,marah,Belajar | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,14,1,0,1,0
+2020-10-19,Senin,21,Negatif,1,sangat sedih,Membaca | Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Coding | Tutorial,26,0,1,1,0
+2020-08-05,Rabu,14,Negatif,1,sangat buruk,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Cinta,26,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2021-02-14,Minggu,12,Negatif,1,khawatir,Membaca | Belajar | Berpuasa | Jalan Kaki | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2020-08-07,Jumat,7,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Menonton Film | Bermain Game | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Cinta | Rekaman,30,0,1,1,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-02-13,Selasa,14,Negatif,1,marah,Makan Enak | YouTube | Surel,3,0,0,0,0
+2020-09-24,Kamis,21,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,21,0,0,1,0
+2018-02-07,Rabu,17,Negatif,1,sakit,Jalan Kaki | Buku Audio | Penelitian | Keluarga | Rumah Sakit,5,0,0,1,0
+2020-09-29,Selasa,21,Negatif,1,takut,Seni | Berpuasa | Jalan Kaki | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,17,0,0,1,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2018-09-13,Kamis,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-08-16,Minggu,18,Negatif,1,sangat sedih,Seni | Berpuasa | Meditasi | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | YouTube | Cinta,11,1,1,0,0
+2020-12-11,Jumat,21,Negatif,1,sangat sedih,Belajar | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial | Cinta,14,0,0,1,0
+2020-12-08,Selasa,22,Negatif,1,khawatir,Membaca | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,19,0,0,1,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2018-02-14,Rabu,19,Negatif,1,tersulut emosi,Jalan Kaki | YouTube | Mendengarkan Lagu,3,0,0,1,0
+2018-02-14,Rabu,13,Negatif,1,marah,Dota 2 | YouTube | Bermain Game,3,0,0,0,0
+2020-04-09,Kamis,21,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Menonton Film | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,19,0,1,1,0
+2021-02-14,Minggu,12,Negatif,1,khawatir,Membaca | Belajar | Berpuasa | Jalan Kaki | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2018-06-17,Minggu,14,Negatif,1,khawatir,Streaming | YouTube | Menonton Film,3,1,0,0,0
+2020-12-06,Minggu,22,Negatif,1,takut,Membaca | Belajar | Berdoa | Berpuasa | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial | Cinta,25,1,1,1,0
+2020-09-16,Rabu,17,Negatif,1,sangat sedih,Seni | Berdoa | Berpuasa | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Tidur Siang Singkat | Dokumenter | Coding | Tutorial | Cinta,19,0,0,1,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2020-08-28,Jumat,22,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Keluarga | Tidur Siang Singkat | Sahabat Pena | Coding | Rekaman,21,0,1,1,0
+2018-06-17,Minggu,14,Negatif,1,khawatir,Streaming | YouTube | Menonton Film,3,1,0,0,0
+2018-04-09,Senin,19,Negatif,1,khawatir,Dota 2 | Podcast | Buku Audio | Streaming | YouTube | Mendengarkan Lagu,6,0,0,0,0
+2018-02-10,Sabtu,14,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2018-03-01,Kamis,20,Negatif,1,khawatir,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2018-09-13,Kamis,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-10-09,Jumat,21,Negatif,1,khawatir,Belajar | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,25,0,0,1,0
+2021-02-14,Minggu,12,Negatif,1,khawatir,Membaca | Belajar | Berpuasa | Jalan Kaki | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,21,1,0,1,0
+2020-09-18,Jumat,19,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,1,1,0
+2018-09-18,Selasa,10,Negatif,1,khawatir,Berdoa,1,0,0,0,0
+2020-05-20,Rabu,15,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Surel | Mendengarkan Lagu,23,0,1,1,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-08-19,Rabu,13,Negatif,1,khawatir,Berpuasa | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Keluarga | Dokumenter | Cinta,10,0,0,0,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2020-08-05,Rabu,14,Negatif,1,sangat buruk,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Dokumenter | Cinta,26,0,1,1,0
+2020-08-29,Sabtu,21,Negatif,1,takut,Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Traveling | Dokumenter | Coding | Rekaman,21,1,1,1,0
+2020-12-12,Sabtu,21,Negatif,1,khawatir,Belajar | Seni | Jalan Kaki | Mandi | Dota 2 | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena | Coding | Tutorial,22,1,0,1,0
+2020-08-16,Minggu,18,Negatif,1,sangat sedih,Seni | Berpuasa | Meditasi | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | YouTube | Cinta,11,1,1,0,0
+2018-03-07,Rabu,19,Negatif,1,khawatir,Menonton Serial | Penelitian | Tidur Siang Singkat,3,0,0,0,0
+2020-10-19,Senin,21,Negatif,1,sangat sedih,Membaca | Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Coding | Tutorial,26,0,1,1,0
+2020-06-07,Minggu,21,Negatif,1,khawatir,Membaca | Seni | Menulis Jurnal | Jalan Kaki | Mandi | Podcast | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena,16,1,0,1,0
+2018-09-12,Rabu,19,Negatif,1,sakit,Dota 2 | YouTube,2,0,0,0,0
+2018-12-23,Minggu,19,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2020-12-17,Kamis,15,Negatif,1,tersulut emosi,Membaca | Belajar | Seni | Berpuasa | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Tidur Siang Singkat | Desain | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,0,0,0
+2018-02-10,Sabtu,14,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2018-09-13,Kamis,10,Negatif,1,sakit,Buku Audio | Berita Terkini | Tidur Siang Singkat,3,0,0,0,0
+2018-03-05,Senin,10,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-07-06,Jumat,19,Negatif,1,tersulut emosi,Berpuasa | Dota 2,2,0,0,0,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2021-03-01,Senin,20,Negatif,1,sangat buruk,Membaca | Belajar | Berpuasa | Meditasi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,19,0,1,0,0
+2021-04-12,Senin,21,Negatif,1,marah,Membaca | Belajar | Berpuasa | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2018-12-05,Rabu,19,Negatif,1,takut,Jalan Kaki | Dota 2 | Podcast | Menonton Serial | Berita Terkini | Makan Enak | Streaming | YouTube | Desain,9,0,0,1,0
+2020-07-17,Jumat,7,Negatif,1,takut,Membaca | Belajar | Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Tutorial | Cinta | Rekaman,29,0,1,1,0
+2018-05-02,Rabu,20,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-14,Rabu,10,Negatif,1,tersulut emosi,Berdoa | YouTube | Catatan Berat Badan,3,0,0,0,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2020-08-04,Selasa,19,Negatif,1,buruk,Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter,23,0,1,1,0
+2018-02-13,Selasa,18,Negatif,1,marah,Dota 2 | Keluarga | Surel,3,0,0,0,0
+2018-12-23,Minggu,19,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2018-12-23,Minggu,19,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2020-09-24,Kamis,21,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,21,0,0,1,0
+2018-09-12,Rabu,14,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2020-07-17,Jumat,7,Negatif,1,takut,Membaca | Belajar | Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Tutorial | Cinta | Rekaman,29,0,1,1,0
+2020-08-06,Kamis,21,Negatif,1,buruk,Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Penelitian | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Cinta,24,0,1,1,0
+2020-09-29,Selasa,21,Negatif,1,takut,Seni | Berpuasa | Jalan Kaki | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,17,0,0,1,0
+2018-04-05,Kamis,14,Negatif,1,sakit,Streaming,1,0,0,0,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-08-07,Jumat,7,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Menonton Film | Bermain Game | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Cinta | Rekaman,30,0,1,1,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2020-08-15,Sabtu,21,Negatif,1,buruk,Seni | Jalan Kaki | Podcast | Buku Audio | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube,9,1,0,1,0
+2018-03-26,Senin,8,Negatif,1,khawatir,Streaming,1,0,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2020-12-11,Jumat,21,Negatif,1,sangat sedih,Belajar | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial | Cinta,14,0,0,1,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-09-24,Kamis,21,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,21,0,0,1,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2018-03-05,Senin,19,Negatif,1,marah,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2020-09-24,Kamis,21,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,21,0,0,1,0
+2020-12-08,Selasa,22,Negatif,1,khawatir,Membaca | Berdoa | Berpuasa | Jalan Kaki | Buku Audio | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,19,0,0,1,0
+2020-08-16,Minggu,18,Negatif,1,sangat sedih,Seni | Berpuasa | Meditasi | Podcast | Buku Audio | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | YouTube | Cinta,11,1,1,0,0
+2018-03-01,Kamis,20,Negatif,1,khawatir,Dota 2 | Streaming | YouTube,3,0,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2018-03-07,Rabu,11,Negatif,1,khawatir,Dota 2,1,0,0,0,0
+2020-07-17,Jumat,7,Negatif,1,takut,Membaca | Belajar | Seni | Berdoa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Dota 2 | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Hal Baru | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Dokumenter | Tutorial | Cinta | Rekaman,29,0,1,1,0
+2018-02-14,Rabu,13,Negatif,1,marah,Dota 2 | YouTube | Bermain Game,3,0,0,0,0
+2018-02-14,Rabu,14,Negatif,1,marah,Dota 2 | YouTube | Bermain Game | Penelitian,4,0,0,0,0
+2020-12-12,Sabtu,21,Negatif,1,khawatir,Belajar | Seni | Jalan Kaki | Mandi | Dota 2 | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Mendengarkan Lagu | Sahabat Pena | Coding | Tutorial,22,1,0,1,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2020-09-24,Kamis,21,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Membersihkan Rumah | Penelitian | Hal Baru | Sahabat Pena | Coding | Tutorial,21,0,0,1,0
+2020-08-25,Selasa,22,Negatif,1,sangat buruk,Seni | Berpuasa | Olahraga | Meditasi | Buku Audio | Menulis | Menonton Serial | Reddit | Belajar Bahasa | Streaming | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Rekaman,15,0,1,1,0
+2018-04-20,Jumat,19,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2020-08-15,Sabtu,17,Negatif,1,marah,Belajar | Jalan Kaki | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | YouTube | Tidur Siang Singkat | Dokumenter | Coding | Tutorial,14,1,0,1,0
+2020-05-19,Selasa,15,Negatif,1,khawatir,Membaca | Belajar | Seni | Menulis Jurnal | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Hal Baru | Keluarga | Mendengarkan Lagu | Desain | Catatan Berat Badan,26,0,1,1,0
+2018-02-07,Rabu,10,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Dota 2 | YouTube | Tidur Siang Singkat,5,0,0,0,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2018-02-14,Rabu,14,Negatif,1,marah,Dota 2 | YouTube | Bermain Game | Penelitian,4,0,0,0,0
+2018-04-03,Selasa,14,Negatif,1,sakit,Makan Enak | Streaming | Traveling,3,0,0,0,0
+2018-07-06,Jumat,19,Negatif,1,tersulut emosi,Berpuasa | Dota 2,2,0,0,0,0
+2018-09-12,Rabu,19,Negatif,1,sakit,Dota 2 | YouTube,2,0,0,0,0
+2019-01-04,Jumat,10,Negatif,1,sakit,Dota 2 | Podcast | Berita Terkini | Makan Enak | YouTube | Bermain Game | Keluarga,7,0,0,0,0
+2018-07-06,Jumat,14,Negatif,1,tersulut emosi,Berdoa | Berpuasa | Meditasi | Mandi | Streaming | YouTube,6,0,1,0,0
+2020-09-18,Jumat,19,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,1,1,0
+2020-09-18,Jumat,19,Negatif,1,tersulut emosi,Belajar | Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Mendengarkan Lagu | Dokumenter | Sahabat Pena | Coding | Tutorial,24,0,1,1,0
+2020-12-18,Jumat,22,Negatif,1,marah,Membaca | Belajar | Berdoa | Berpuasa | Mandi | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Traveling | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,23,0,0,0,0
+2020-09-25,Jumat,12,Negatif,1,khawatir,Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Bercukur | Streaming | YouTube | Memasak | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Mendengarkan Lagu | Desain | Sahabat Pena | Coding | Tutorial | Rekaman,28,0,0,1,0
+2018-02-12,Senin,19,Negatif,1,tersulut emosi,Dota 2 | Streaming | YouTube | Hal Baru | Keluarga | Surel | Mendengarkan Lagu,7,0,0,0,0
+2020-04-09,Kamis,21,Negatif,1,sangat sedih,Berdoa | Berpuasa | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Streaming | YouTube | Menonton Film | Keluarga | Tidur Siang Singkat | Mendengarkan Lagu | Desain | Sahabat Pena,19,0,1,1,0
+2021-04-12,Senin,21,Negatif,1,marah,Membaca | Belajar | Berpuasa | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2018-05-02,Rabu,14,Negatif,1,tersulut emosi,Streaming | YouTube | Surel,3,0,0,0,0
+2020-05-20,Rabu,15,Negatif,1,marah,Membaca | Belajar | Seni | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Meditasi | Mandi | Podcast | Buku Audio | Menulis | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Penelitian | Tidur Siang Singkat | Surel | Mendengarkan Lagu,23,0,1,1,0
+2018-07-07,Sabtu,14,Negatif,1,tersulut emosi,Dota 2,1,1,0,0,0
+2018-03-20,Selasa,10,Negatif,1,khawatir,Dota 2 | Streaming | YouTube | Penelitian,4,0,0,0,0
+2020-09-23,Rabu,21,Negatif,1,khawatir,Belajar | Buku Audio | Menulis | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Tidur Siang Singkat | Sahabat Pena | Coding,16,0,0,0,0
+2020-06-02,Selasa,15,Negatif,1,khawatir,Seni | Berpuasa | Dota 2 | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Sahabat Pena,11,0,0,0,0
+2018-02-13,Selasa,14,Negatif,1,marah,Makan Enak | YouTube | Surel,3,0,0,0,0
+2020-09-01,Selasa,21,Negatif,1,tersulut emosi,Jalan Kaki | Podcast | Buku Audio | Makan Enak | Belajar Bahasa | Streaming | Memasak,7,0,0,1,0
+2018-02-06,Selasa,9,Negatif,1,buruk,Berpuasa | Jalan Kaki | Meditasi | Traveling | Rumah Sakit,5,0,1,1,0
+2018-05-01,Selasa,14,Negatif,1,khawatir,Membaca | Menulis Jurnal | YouTube | Penelitian,4,0,0,0,0
+2018-12-05,Rabu,19,Negatif,1,takut,Jalan Kaki | Dota 2 | Podcast | Menonton Serial | Berita Terkini | Makan Enak | Streaming | YouTube | Desain,9,0,0,1,0
+2018-03-05,Senin,10,Negatif,1,tersulut emosi,Dota 2,1,0,0,0,0
+2021-04-12,Senin,21,Negatif,1,marah,Membaca | Belajar | Berpuasa | Jalan Kaki | Meditasi | Mandi | Menulis | Menonton Serial | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Dokumenter | Sahabat Pena | Coding | Tutorial,22,0,1,1,0
+2018-12-23,Minggu,19,Negatif,1,sangat sedih,Dota 2 | Streaming | YouTube,3,1,0,0,0
+2018-02-06,Selasa,20,Negatif,1,sakit,Dota 2 | Streaming | Keluarga,3,0,0,0,0
+2020-10-09,Jumat,21,Negatif,1,khawatir,Belajar | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,25,0,0,1,0
+2020-10-09,Jumat,21,Negatif,1,khawatir,Belajar | Berdoa | Berpuasa | Olahraga | Membaca Quran | Jalan Kaki | Mandi | Buku Audio | Menonton Serial | Berita Terkini | Makan Enak | Reddit | Belajar Bahasa | Streaming | YouTube | Memasak | Membersihkan Rumah | Penelitian | Hal Baru | Tidur Siang Singkat | Surel | Dokumenter | Sahabat Pena | Coding | Tutorial,25,0,0,1,0
